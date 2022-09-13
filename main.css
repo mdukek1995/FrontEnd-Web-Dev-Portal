@@ -16,6 +16,7 @@ body{
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
     color: #B7553A;
 }
 
@@ -103,53 +104,46 @@ ul#horizontal-menu li a:active {
 }
 
 #assignment-one{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
+    border: 1px solid #BE6F38;
 }
 #assignment-two{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 #assignment-three{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 #assignment-four{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 #assignment-five{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 #assignment-six{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 #assignment-seven{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 #assignment-eight{
-    width: 7rem ;
-    height: 7rem;
+    width: 9rem ;
+    height: 9rem;
     margin: 1rem ;
-    border: 1px solid black;
-}
+    border: 1px solid #BE6F38;}
 
 #close-pointer {
     position: absolute;
