@@ -255,21 +255,23 @@ ul#horizontal-menu li a:active {
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #512418;
+    text-align: center;
 }
 
 ul#assignment-links li {
-    display: inline;
-
+    display: inline-block;
+    text-align: center;
 }
 
 ul#assignment-links li a {
     outline: none;
     text-decoration: none;
-    padding: 0 0 0;
+    padding: 0;
+    text-align: center;
 }
   
 ul#assignment-links li a:link {
-    color: #512418;
+    color: #DFA290;
 }
   
 ul#assignment-links li a:visited {
@@ -285,5 +287,5 @@ ul#assignment-links li a:hover {
 }
   
 ul#assignment-links li a:active {
-    color: black;
+    color: #DFA290;
 }
