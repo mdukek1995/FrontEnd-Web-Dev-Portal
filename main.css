@@ -194,13 +194,14 @@ ul#horizontal-menu li a:active {
     padding: 0 0 0 0;
     width: 80%;
     max-width: 1200px;
+    height: 20rem;
 }
 
 .project-info {
     position: relative;
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin-left: 2rem;
     padding: 1em;
     width: auto;
     max-width: 200px;
@@ -230,10 +231,11 @@ ul#horizontal-menu li a:active {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: auto;
+    margin: auto 2rem;
     width: 20rem ;
     height: 20rem;
-    border: 1px solid black;
+    padding: 1rem;
+    border: 1px solid #CCCCCC;
     background-color: white;
 }
 
