@@ -108,42 +108,65 @@ ul#horizontal-menu li a:active {
     height: 9rem;
     margin: 1rem ;
     border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
 }
 #assignment-two{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+}
+
 #assignment-three{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
+}
 #assignment-four{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;    
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
+}
 #assignment-five{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
+}
 #assignment-six{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
+}
 #assignment-seven{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
+}
 #assignment-eight{
     width: 9rem ;
     height: 9rem;
     margin: 1rem ;
-    border: 1px solid #BE6F38;}
+    border: 1px solid #BE6F38;
+    box-shadow: 2px 2px 2px 1px rgba(190,111,56, 0.25);
+
+}
 
 #close-pointer {
     position: absolute;
@@ -214,4 +237,8 @@ ul#horizontal-menu li a:active {
     background-color: white;
 }
 
-
+.assign-img {
+    height: 9rem;
+    width: 9rem;
+    object-fit: fill;
+}
